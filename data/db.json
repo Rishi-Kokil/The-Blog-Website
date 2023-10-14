@@ -1,0 +1,16 @@
+{
+    "blogs" : [
+        {
+            "id" : 1 ,
+            "title" : "First Blog" , 
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam nesciunt itaque labore, mollitia quae nobis atque alias magnam exercitationem porro." ,
+            "author" : "author1"
+        } ,
+        {
+            "id" : 2 ,
+            "title" : "Second Blog" , 
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam nesciunt itaque labore, mollitia quae nobis atque alias magnam exercitationem porro." ,
+            "author" : "author1"
+        }
+    ]
+}
