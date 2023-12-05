@@ -14,3 +14,6 @@ Created using React Js
 
 <h1>Endpoints</h1>
 <img width="400" height="250" src = "image.png"/>
+
+<h1>Home Page</h1>
+![home Page Screen Shot](image-1.png)
