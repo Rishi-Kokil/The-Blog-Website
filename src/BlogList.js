@@ -1,4 +1,4 @@
-
+import { Link } from "react-router-dom/cjs/react-router-dom.min";
 
 // we are using destructuring sytax for directly accessing the props object properties
 
@@ -11,8 +11,11 @@ const BlogList = ({ blogs, title}) => {
             {
                 blogs.map((blog) => (
                     <div className="blog-preview" key={blog.id}>
+
+                    <Link to={`/blogs/${blog.id}`}>
                         <h2>{blog.title}</h2>
                         <p>Written by {blog.author}</p>
+                    </Link>
 
                     </div>
                 ))
