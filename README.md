@@ -17,16 +17,14 @@ Created using React Js
 
 
 <h1>Home Page</h1>
-<img width="400" height="250" src = "image-1.png"/>
-
+<img width="400" height="250" src = "image-2.png"/>
 
 <h1>Create New Blog<h1>
-<img width="400" height="250" src = "image-2.png"/>
+<img width="400" height="250" src = "image-1.png"/>
 
 <h1>Blogs Page<h1>
 <img width="400" height="250" src = "image-3.png"/>
 
 <h1>Wen You make request to some Unknown Endpoint<h1>
 <img width="400" height="250" src = "image-4.png"/>
-
-
+![Alt text](image-4.png)
